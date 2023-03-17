@@ -1,6 +1,6 @@
 ## [🔙 my-views-counter](https://github.com/fabiohcnobre/my-views-counter)
 
-### :octocat: [online-cv](https://github.com/fabiohcnobre/online-cv)
+### :octocat: [curriculo](https://github.com/fabiohcnobre/curriculo)
 ![Image of my-views-counter](https://github.com/fabiohcnobre/my-views-counter/blob/master/graph/529720704/large/year.png)
 
 <details>
@@ -26,7 +26,7 @@
 			<code>3</code>
 		</td>
 		<td>
-			<code>14</code>
+			<code>37</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,7 +164,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2023/3/17 12:16 PM UTC</i></small>
+<small><i>Last updated on 2023/3/17 6:10 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +173,9 @@
 [![Image of my-views-counter](https://github.com/fabiohcnobre/my-views-counter/blob/master/svg/529720704/badge.svg)](https://github.com/fabiohcnobre/my-views-counter/blob/master/readme/529720704/week.md)
 ```
 ### Header
-# online-cv [<img alt="Image of my-views-counter" src="https://github.com/fabiohcnobre/my-views-counter/blob/master/graph/529720704/small/year.png" height="20">](https://github.com/fabiohcnobre/my-views-counter/blob/master/readme/529720704/year.md)
+# curriculo [<img alt="Image of my-views-counter" src="https://github.com/fabiohcnobre/my-views-counter/blob/master/graph/529720704/small/year.png" height="20">](https://github.com/fabiohcnobre/my-views-counter/blob/master/readme/529720704/year.md)
 ```readme
-# online-cv [<img alt="Image of my-views-counter" src="https://github.com/fabiohcnobre/my-views-counter/blob/master/graph/529720704/small/year.png" height="20">](https://github.com/fabiohcnobre/my-views-counter/blob/master/readme/529720704/year.md)
+# curriculo [<img alt="Image of my-views-counter" src="https://github.com/fabiohcnobre/my-views-counter/blob/master/graph/529720704/small/year.png" height="20">](https://github.com/fabiohcnobre/my-views-counter/blob/master/readme/529720704/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
